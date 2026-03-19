@@ -21,4 +21,4 @@ Ana Sena
 
 
 ## 📸 Preview
-![Calculadora](print.png)
+![Foto da Calculadora](print.png)
