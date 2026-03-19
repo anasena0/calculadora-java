@@ -2,7 +2,7 @@
 
 Este é meu primeiro projeto em Java.
 
-## 🚀 Funcionalidades
+## 🚀 Operações
 - Soma
 - Subtração
 - Multiplicação
